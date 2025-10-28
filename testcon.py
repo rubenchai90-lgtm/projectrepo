@@ -1,1 +1,2 @@
-Hello testing conflict
+print('Hello World')
+>>>>>>> featurex
